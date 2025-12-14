@@ -7,4 +7,6 @@ __pycache__
 # Large files
 models/bert_zone_classifier/best_model.pt
 models/bert_zone_classifier/model.safetensors
-data/
+
+# Data files
+data/annotated.json
