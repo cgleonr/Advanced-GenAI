@@ -1,0 +1,23 @@
+{
+  "B-Abschl\u00fcsse": 0,
+  "B-Anstellung": 1,
+  "B-Arbeitsumfeld": 2,
+  "B-Benefits": 3,
+  "B-Bewerbungsprozess": 4,
+  "B-Challenges": 5,
+  "B-Erfahrung": 6,
+  "B-Firmenbeschreibung": 7,
+  "B-Firmenkundenbeschreibung": 8,
+  "B-F\u00e4higkeiten und Inhalte": 9,
+  "I-Abschl\u00fcsse": 10,
+  "I-Anstellung": 11,
+  "I-Arbeitsumfeld": 12,
+  "I-Benefits": 13,
+  "I-Bewerbungsprozess": 14,
+  "I-Challenges": 15,
+  "I-Erfahrung": 16,
+  "I-Firmenbeschreibung": 17,
+  "I-Firmenkundenbeschreibung": 18,
+  "I-F\u00e4higkeiten und Inhalte": 19,
+  "O": 20
+}

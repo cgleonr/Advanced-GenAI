@@ -1,0 +1,84 @@
+{
+  "classification_report": {
+    "Abschl\u00fcsse": {
+      "precision": 0.14055636896046853,
+      "recall": 0.3847695390781563,
+      "f1-score": 0.2058981233243968,
+      "support": 499
+    },
+    "Anstellung": {
+      "precision": 0.0579185520361991,
+      "recall": 0.23272727272727273,
+      "f1-score": 0.0927536231884058,
+      "support": 825
+    },
+    "Arbeitsumfeld": {
+      "precision": 0.002702702702702703,
+      "recall": 0.08333333333333333,
+      "f1-score": 0.005235602094240838,
+      "support": 12
+    },
+    "Benefits": {
+      "precision": 0.06590114827758363,
+      "recall": 0.3656509695290859,
+      "f1-score": 0.1116751269035533,
+      "support": 361
+    },
+    "Bewerbungsprozess": {
+      "precision": 0.03348694316436252,
+      "recall": 0.1735668789808917,
+      "f1-score": 0.05614215812516096,
+      "support": 628
+    },
+    "Challenges": {
+      "precision": 0.03680981595092025,
+      "recall": 0.4,
+      "f1-score": 0.06741573033707865,
+      "support": 30
+    },
+    "Erfahrung": {
+      "precision": 0.17232808616404308,
+      "recall": 0.48372093023255813,
+      "f1-score": 0.25412339645693344,
+      "support": 430
+    },
+    "Firmenbeschreibung": {
+      "precision": 0.014199890770071,
+      "recall": 0.09285714285714286,
+      "f1-score": 0.0246328754144955,
+      "support": 280
+    },
+    "Firmenkundenbeschreibung": {
+      "precision": 0.10369318181818182,
+      "recall": 0.45625,
+      "f1-score": 0.16898148148148148,
+      "support": 160
+    },
+    "F\u00e4higkeiten und Inhalte": {
+      "precision": 0.0405499883477045,
+      "recall": 0.14859094790777114,
+      "f1-score": 0.0637129256682534,
+      "support": 1171
+    },
+    "micro avg": {
+      "precision": 0.05994214698950075,
+      "recall": 0.25454959053685167,
+      "f1-score": 0.09703433922996879,
+      "support": 4396
+    },
+    "macro avg": {
+      "precision": 0.06681466781922371,
+      "recall": 0.2821467014646212,
+      "f1-score": 0.10505710429940003,
+      "support": 4396
+    },
+    "weighted avg": {
+      "precision": 0.069615392902583,
+      "recall": 0.25454959053685167,
+      "f1-score": 0.10799302468299313,
+      "support": 4396
+    }
+  },
+  "accuracy": 0.8633654818059299,
+  "f1_score": 0.09703433922996879
+}

@@ -1,84 +1,84 @@
 {
   "classification_report": {
     "Abschl\u00fcsse": {
-      "precision": 0.21238938053097345,
-      "recall": 0.6,
-      "f1-score": 0.3137254901960784,
-      "support": 40
+      "precision": 0.27346570397111913,
+      "recall": 0.6072144288577155,
+      "f1-score": 0.3771001866832608,
+      "support": 499
     },
     "Anstellung": {
-      "precision": 0.03731343283582089,
-      "recall": 0.14925373134328357,
-      "f1-score": 0.05970149253731343,
-      "support": 67
+      "precision": 0.06017352364959418,
+      "recall": 0.2606060606060606,
+      "f1-score": 0.09777171441564347,
+      "support": 825
     },
     "Arbeitsumfeld": {
       "precision": 0.0,
       "recall": 0.0,
       "f1-score": 0.0,
-      "support": 2
+      "support": 12
     },
     "Benefits": {
-      "precision": 0.008645533141210375,
-      "recall": 0.1,
-      "f1-score": 0.015915119363395226,
-      "support": 30
+      "precision": 0.08862433862433862,
+      "recall": 0.37119113573407203,
+      "f1-score": 0.1430859583555793,
+      "support": 361
     },
     "Bewerbungsprozess": {
-      "precision": 0.023696682464454975,
-      "recall": 0.125,
-      "f1-score": 0.0398406374501992,
-      "support": 40
+      "precision": 0.06109822119102862,
+      "recall": 0.2515923566878981,
+      "f1-score": 0.09831985065339141,
+      "support": 628
     },
     "Challenges": {
-      "precision": 0.0,
-      "recall": 0.0,
-      "f1-score": 0.0,
-      "support": 2
+      "precision": 0.02696078431372549,
+      "recall": 0.36666666666666664,
+      "f1-score": 0.0502283105022831,
+      "support": 30
     },
     "Erfahrung": {
-      "precision": 0.125,
-      "recall": 0.45,
-      "f1-score": 0.1956521739130435,
-      "support": 20
+      "precision": 0.18151815181518152,
+      "recall": 0.5116279069767442,
+      "f1-score": 0.2679658952496955,
+      "support": 430
     },
     "Firmenbeschreibung": {
-      "precision": 0.0,
-      "recall": 0.0,
-      "f1-score": 0.0,
-      "support": 17
+      "precision": 0.02395543175487465,
+      "recall": 0.15357142857142858,
+      "f1-score": 0.04144578313253012,
+      "support": 280
     },
     "Firmenkundenbeschreibung": {
-      "precision": 0.024096385542168676,
-      "recall": 0.25,
-      "f1-score": 0.04395604395604395,
-      "support": 8
+      "precision": 0.11945392491467577,
+      "recall": 0.4375,
+      "f1-score": 0.18766756032171583,
+      "support": 160
     },
     "F\u00e4higkeiten und Inhalte": {
-      "precision": 0.012285012285012284,
-      "recall": 0.06493506493506493,
-      "f1-score": 0.020661157024793386,
-      "support": 77
+      "precision": 0.053735255570117955,
+      "recall": 0.17506404782237403,
+      "f1-score": 0.08223024468511833,
+      "support": 1171
     },
     "micro avg": {
-      "precision": 0.0327313769751693,
-      "recall": 0.19141914191419143,
-      "f1-score": 0.05590361445783133,
-      "support": 303
+      "precision": 0.07963668326985057,
+      "recall": 0.3091446769790719,
+      "f1-score": 0.12664833884721122,
+      "support": 4396
     },
     "macro avg": {
-      "precision": 0.04434264267996406,
-      "recall": 0.17391887962783484,
-      "f1-score": 0.0689452114440867,
-      "support": 303
+      "precision": 0.0888985335804656,
+      "recall": 0.31350340319229597,
+      "f1-score": 0.13458155039992178,
+      "support": 4396
     },
     "weighted avg": {
-      "precision": 0.05228226252256351,
-      "recall": 0.19141914191419143,
-      "f1-score": 0.08077788649363454,
-      "support": 303
+      "precision": 0.09646755559693285,
+      "recall": 0.3091446769790719,
+      "f1-score": 0.14487920483435873,
+      "support": 4396
     }
   },
-  "f1_score": 0.05590361445783133,
-  "accuracy": 0.7238197062630127
+  "f1_score": 0.12664833884721122,
+  "accuracy": 0.8669900817048517
 }
