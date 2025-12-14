@@ -1,0 +1,84 @@
+{
+  "classification_report": {
+    "Abschl\u00fcsse": {
+      "precision": 0.21238938053097345,
+      "recall": 0.6,
+      "f1-score": 0.3137254901960784,
+      "support": 40
+    },
+    "Anstellung": {
+      "precision": 0.03731343283582089,
+      "recall": 0.14925373134328357,
+      "f1-score": 0.05970149253731343,
+      "support": 67
+    },
+    "Arbeitsumfeld": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 2
+    },
+    "Benefits": {
+      "precision": 0.008645533141210375,
+      "recall": 0.1,
+      "f1-score": 0.015915119363395226,
+      "support": 30
+    },
+    "Bewerbungsprozess": {
+      "precision": 0.023696682464454975,
+      "recall": 0.125,
+      "f1-score": 0.0398406374501992,
+      "support": 40
+    },
+    "Challenges": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 2
+    },
+    "Erfahrung": {
+      "precision": 0.125,
+      "recall": 0.45,
+      "f1-score": 0.1956521739130435,
+      "support": 20
+    },
+    "Firmenbeschreibung": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 17
+    },
+    "Firmenkundenbeschreibung": {
+      "precision": 0.024096385542168676,
+      "recall": 0.25,
+      "f1-score": 0.04395604395604395,
+      "support": 8
+    },
+    "F\u00e4higkeiten und Inhalte": {
+      "precision": 0.012285012285012284,
+      "recall": 0.06493506493506493,
+      "f1-score": 0.020661157024793386,
+      "support": 77
+    },
+    "micro avg": {
+      "precision": 0.0327313769751693,
+      "recall": 0.19141914191419143,
+      "f1-score": 0.05590361445783133,
+      "support": 303
+    },
+    "macro avg": {
+      "precision": 0.04434264267996406,
+      "recall": 0.17391887962783484,
+      "f1-score": 0.0689452114440867,
+      "support": 303
+    },
+    "weighted avg": {
+      "precision": 0.05228226252256351,
+      "recall": 0.19141914191419143,
+      "f1-score": 0.08077788649363454,
+      "support": 303
+    }
+  },
+  "f1_score": 0.05590361445783133,
+  "accuracy": 0.7238197062630127
+}
