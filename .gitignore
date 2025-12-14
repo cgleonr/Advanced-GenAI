@@ -5,6 +5,6 @@ logs/
 __pycache__
 
 # Large files
-models/best_model.pt
-models/model.safetensors
+models/bert_zone_classifier/best_model.pt
+models/bert_zone_classifier/model.safetensors
 data/
