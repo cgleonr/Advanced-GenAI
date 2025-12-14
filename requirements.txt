@@ -1,0 +1,11 @@
+torch
+transformers
+pandas
+numpy
+seqeval
+google-generativeai
+tensorboard
+scikit-learn
+tqdm
+matplotlib
+seaborn

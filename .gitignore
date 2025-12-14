@@ -1,0 +1,10 @@
+.agent/
+.env
+logs/
+.venv/
+__pycache__
+
+# Large files
+models/best_model.pt
+models/model.safetensors
+data/
