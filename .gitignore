@@ -10,3 +10,4 @@ models/bert_zone_classifier/model.safetensors
 
 # Data files
 data/annotated.json
+Advanced-GenAI/data/annotated.json
